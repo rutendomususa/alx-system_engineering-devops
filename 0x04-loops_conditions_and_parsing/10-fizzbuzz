@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+# Fizzbuzz
+
 n=1
 
 while [ "$n" -le 100 ]; do
